@@ -1,4 +1,5 @@
-#SortWiz - A data sorting visualizer made using C++ and SDL2
+# SortWiz - A data sorting visualizer made using C++ and SDL2
+
 Introduction
 This project is a Data Sorting Visualizer implemented in C++ using the SDL2 library. The visualizer provides a graphical representation of various sorting algorithms, offering an intuitive understanding of their mechanics and performance. It's designed as an educational tool for students and enthusiasts to learn and compare sorting algorithms in a visually engaging way.
 
